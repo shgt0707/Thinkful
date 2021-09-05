@@ -1,1 +1,1 @@
-# Thinkful
+# Thinkful Assignments and Projects
